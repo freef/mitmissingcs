@@ -1,0 +1,1 @@
+-rw-r--r--  1 freef  staff    89 Mar 30 23:02 lmdir.sh

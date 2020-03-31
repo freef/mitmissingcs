@@ -1,0 +1,2 @@
+#!/bin/sh
+./semester | grep -i last-modified | cut -d ' '  -f 2-30 | tee last-modified.txt
